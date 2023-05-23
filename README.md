@@ -1,4 +1,4 @@
-# Train- fs, and Promise.all
+# Train - fs, and Promise.all
 
 Este é um exemplo de aplicação que realiza operações de leitura e escrita de arquivos utilizando promises do módulo fs do Node.js. A aplicação é dividida em três partes principais:
 
